@@ -22,5 +22,5 @@
     alcoolSpan.innerHTML = 'Gasolina R$' + gasolinaInput
     
     contentResult.classList.remove('hide')
-
+    
 }
