@@ -19,6 +19,8 @@
         textResult.innerHTML = 'Compensar usar Gasolina'
     }
     gasolinaSpan.innerHTML = 'Alcool R$' + alcoolInput
+    alcoolSpan.innerHTML = 'Gasolina R$' + gasolinaInput
+    
     contentResult.classList.remove('hide')
 
 }
